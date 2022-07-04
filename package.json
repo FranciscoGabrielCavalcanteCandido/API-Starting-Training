@@ -1,0 +1,25 @@
+{
+ "name": "API Starting Training",
+  "version": "1.0.0",
+  "description": "API para o app Starting Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon App.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoGabrielCavalcanteCandido/API-Starting-Training.git"
+  },
+  "author": "Francisco Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranciscoGabrielCavalcanteCandido/API-Starting-Training/issues"
+  },
+  "homepage": "https://github.com/FranciscoGabrielCavalcanteCandido/API-Starting-Training#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
